@@ -1,0 +1,12 @@
+Weight,Size,Texture,Color,Waste_Type
+200,1,1,1,Plastic
+500,3,2,2,Organic
+300,2,1,4,Paper
+700,3,2,3,Metal
+150,1,1,1,Plastic
+600,3,2,2,Organic
+250,2,1,4,Paper
+750,3,2,3,Metal
+180,1,1,1,Plastic
+520,3,2,2,Organic
+,,,,
